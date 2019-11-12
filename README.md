@@ -1,1 +1,1 @@
-2018-2019-icpc-notebook
+This is an ACM ICPC code notebook compiled in 2018. The codes here were written in the period of 2014 - 2018. Most of them were written when I was still in High School, so they may not contain the most elegant solution.
